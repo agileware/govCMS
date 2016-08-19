@@ -935,7 +935,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/jakoch/phantomjs-installer/archive/2.1.1.zip"
+                "url": "https://github.com/jakoch/phantomjs-installer/archive/2.1.1.zip",
                 "reference": "2.1.1",
                 "shasum": ""
             },
