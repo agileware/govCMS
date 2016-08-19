@@ -927,7 +927,7 @@
         },
         {
             "name": "jakoch/phantomjs-installer",
-            "version": "1.9.8",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jakoch/phantomjs-installer.git",
@@ -935,8 +935,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jakoch/phantomjs-installer/zipball/fd6459094404f698a4edb9609e5e8c55c6418824",
-                "reference": "fd6459094404f698a4edb9609e5e8c55c6418824",
+                "url": "https://github.com/jakoch/phantomjs-installer/archive/2.1.1.zip"
+                "reference": "2.1.1",
                 "shasum": ""
             },
             "require": {

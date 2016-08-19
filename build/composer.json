@@ -14,7 +14,7 @@
     "require-dev": {
         "drush/drush":               "8.*",
         "phing/phing":               "2.8.*",
-        "jakoch/phantomjs-installer": "1.9.8",
+        "jakoch/phantomjs-installer": "2.1.1",
         "drupal/drupal-extension":   "3.0.7",
         "drupal/drupal-driver":      "v1.0.6",
         "fabpot/goutte":             "1.0.x-dev",
